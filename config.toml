@@ -20,8 +20,8 @@ disqusShortname = "Pedro"
   #avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
-  #favicon_32 = "/img/favicon-32x32.png"
-  #favicon_16 = "/img/favicon-16x16.png"
+  favicon_32 = "/favicon-32x32-dark.svg"
+  favicon_16 = "/favicon-32x32-dark.svg"
 
   since = 2022
 
