@@ -1,8 +1,10 @@
 baseurl = "http://pedgarvic.me"
-title = "Pedro García"
+title = "[pedro]"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
+
+contentDir = "content/"
 
 paginate = 20
 
@@ -17,7 +19,7 @@ disqusShortname = "Pedro"
   info = "Software Developer and Machine Learning Engineer"
   description = "Pedro García's personal website"
   keywords = "blog,developer,personal"
-  #avatarurl = "images/avatar.jpg"
+  avatarurl = "me.png"
   #gravatar = "john.doe@example.com"
 
   favicon_32 = "/favicon-32x32-dark.svg"
@@ -28,9 +30,9 @@ disqusShortname = "Pedro"
   enableTwemoji = true
 
   colorScheme = "light"
-  hidecolorschemetoggle = false
+  hidecolorschemetoggle = true
 
-  #customCSS = ["css/custom.css"]
+  customCSS = ["css/custom.css"]
   #customSCSS = ["scss/custom.scss"]
   #customJS = ["js/custom.js"]
 
