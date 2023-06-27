@@ -33,6 +33,8 @@ draft: false
 
 # Licenses & Certifications
 ---
+- **2023 | AWS Certified Developer – Associate** [(link)](/files/aws-dva.pdf)[(link)](https://www.credly.com/badges/802f3301-85d9-4b20-bdef-574ffd196210/public_url)  
+    Amazon Web Services Training and Certification
 - **2019 | B2 First Certificate in English** [(link)](/files/B2.pdf)  
     Cambridge Assessment English
 
@@ -42,6 +44,8 @@ draft: false
     Pedro García-Victoria, Matteo Cavaliere, Miguel A. Gutiérrez-Naranjo, Miguel Cárdenas-Montes
 - **2021 | PBIL for optimizing Inception Module in Convolutional Neural Networks** [(link)](https://academic.oup.com/jigpal/advance-article-abstract/doi/10.1093/jigpal/jzac022/6530598)  
     Pedro García-Victoria, Miguel A. Gutiérrez-Naranjo, Miguel Cárdenas-Montes, Roberto A. Vasco-Carofilis
+- **2020 | Late Breaking Abstract - Recurrent Neural Networks and environmental data for COPD exacerbation prediction** [(link)](https://erj.ersjournals.com/content/56/suppl_64/2664)  
+    Cristobal Esteban, Francisco Javier Moraza, Pedro García, Amaia Aramburu, Fernando Sancho, Leyre Chasco, José Antonio Gutiérrez, Francisco José Conde, Sergio Resino, Cristóbal Esteban
 
 # Courses
 ---
