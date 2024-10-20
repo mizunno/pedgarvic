@@ -53,17 +53,17 @@ disqusShortname = "Pedro"
   icon = "fa fa-linkedin fa-2x"
   weight = 2
   url = "https://www.linkedin.com/in/pedro-garcía-victoria/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/mizunno/"
+# [[params.social]]
+#   name = "Twitter"
+#   icon = "fa fa-twitter fa-2x"
+#   weight = 3
+#   url = "https://twitter.com/mizunno/"
 
 # Menu links
-[[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
+# [[menu.main]]
+#   name = "Projects"
+#   weight = 1
+#   url  = "projects/"
 [[menu.main]]
   name = "Resume"
   weight = 2
