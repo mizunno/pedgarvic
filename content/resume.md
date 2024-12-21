@@ -19,8 +19,11 @@ draft: false
 
 # Work Experience
 ---
-- **Oct 2018 - Present | Cambrian Intelligence SL**  
-  Jul 2019 - Present | Software Engineer & Machine Learning Engineer (Full-time)  
+- **Dec 2024 - Present | Idoven**  
+  Dec 2024 - Present | Product Software Engineer Backend (Full-time)
+
+- **Oct 2018 - Dec 2024 | Cambrian Intelligence SL**  
+  Jul 2019 - Dec 2024 | Software Engineer & Machine Learning Engineer (Full-time)  
     - Design and implementation of a machine translation system deployed in AWS leveraging services like **API Gateway, Cognito, Lambda, DynamoDB, S3, and CloudFront**.
     - API Rest development to expose complex deep learning-based systems and web services using **Go** and **Python (Flask)**.
     - Full-stack design and implementation of a tool to retrieve atmospheric data from several public sources and expand datasets with this information. Developed a **REST API (FastAPI)** to expose the service for seamless access and integration.

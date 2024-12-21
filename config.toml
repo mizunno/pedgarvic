@@ -16,7 +16,7 @@ disqusShortname = "Pedro"
 
 [params]
   author = "Pedro García"
-  info = "Software Developer and Machine Learning Engineer"
+  info = "Software Engineer and Machine Learning Engineer"
   description = "Pedro García's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "me.png"
