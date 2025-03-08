@@ -57,11 +57,13 @@ draft: false
 
 # Scientific Publications
 ---
-- **2021 | Evolutionary game theory in a cell: A membrane computing approach** [(link)](https://www.sciencedirect.com/science/article/pii/S002002552101330X?dgcid=author)  
+- **2025 | Using machine learning to predict deterioration of symptoms in COPD patients within a telemonitoring program** [(link)](https://doi.org/10.1038/s41598-025-91762-x)
+    Javier Moraza, Cristóbal Esteban-Aizpiri, Amaia Aramburu, Pedro García, Fernando Sancho, Sergio Resino, Leyre Chasco, Francisco José Conde, José Antonio Gutiérrez, Dabi Santano, Cristóbal Esteban
+- **2021 | Evolutionary game theory in a cell: A membrane computing approach** [(link)](https://doi.org/10.1016/j.ins.2021.12.109)  
     Pedro García-Victoria, Matteo Cavaliere, Miguel A. Gutiérrez-Naranjo, Miguel Cárdenas-Montes
-- **2021 | PBIL for optimizing Inception Module in Convolutional Neural Networks** [(link)](https://academic.oup.com/jigpal/advance-article-abstract/doi/10.1093/jigpal/jzac022/6530598)  
+- **2021 | PBIL for optimizing Inception Module in Convolutional Neural Networks** [(link)](https://doi.org/10.1093/jigpal/jzac022)  
     Pedro García-Victoria, Miguel A. Gutiérrez-Naranjo, Miguel Cárdenas-Montes, Roberto A. Vasco-Carofilis
-- **2020 | Late Breaking Abstract - Recurrent Neural Networks and environmental data for COPD exacerbation prediction** [(link)](https://erj.ersjournals.com/content/56/suppl_64/2664)  
+- **2020 | Late Breaking Abstract - Recurrent Neural Networks and environmental data for COPD exacerbation prediction** [(link)](https://erj.ersjournals.com/content/56/suppl_64/2664 
     Cristobal Esteban, Francisco Javier Moraza, Pedro García, Amaia Aramburu, Fernando Sancho, Leyre Chasco, José Antonio Gutiérrez, Francisco José Conde, Sergio Resino, Cristóbal Esteban
 
 # Courses
